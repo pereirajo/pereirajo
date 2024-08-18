@@ -8,7 +8,6 @@
 Meu nome é Jonathan Pereira, sou graduado em Análise e Desenvolvimento de Sistemas.
 
 - :office_worker: Desenvolvedor Full Stack na **MMTECH**
-- :blue_heart: Techs: PHP, Laravel, JS, PGSQL, React, entre outras.
 
 > :octocat:
 
