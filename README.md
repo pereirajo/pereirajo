@@ -5,7 +5,7 @@
 
 ## Olá! <img src="https://github.com/pereirajo/pereirajo/blob/master/assets/hi.gif" width="22px">
 
-Meu nome é Jonathan Pereira, sou graduado em Análise e Desenvolvimento de Sistemas.
+Meu nome é Jonathan Pereira
 
 - :office_worker: Desenvolvedor Full Stack na **MMTECH**
 
